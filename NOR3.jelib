@@ -1,0 +1,14 @@
+# header information:
+HNOR3|9.07
+
+# Views:
+Vschematic|sch
+
+# Technologies:
+Tmocmos|ScaleFORmocmos()D180.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
+Tmocmossub|ScaleFORmocmossub()D100.0
+
+# Cell NOR3_S1;1{sch}
+CNOR3_S1;1{sch}||schematic|1585784448337|1585784448345|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+X
